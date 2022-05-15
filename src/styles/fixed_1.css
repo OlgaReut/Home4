@@ -1,0 +1,23 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    position: fixed;
+    width: 100%;
+    background-color: rgb(238, 112, 9);
+}
+
+header .main h1 {
+    color: white;
+    text-align: center;
+}
+
+.section_title {
+    width: 80%;
+    margin: 0 auto;
+    padding: 15px;
+
+    border: 2px solid gold;
+}

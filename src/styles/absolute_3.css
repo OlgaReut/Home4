@@ -1,0 +1,32 @@
+.square {
+    display: inline-block;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.square1,
+.square2,
+.square3 {
+    width: 100px;
+    height: 100px;
+}
+
+.square1 {
+    background-color: red;
+}
+
+.square2 {
+    position: absolute;
+    margin-left: 60px;
+    margin-top: -40px;
+    
+    background-color: blue;
+}
+
+.square3 {
+    position: absolute;
+    margin-left: 120px;
+    margin-top: 20px;
+    
+    background-color: green;
+}
